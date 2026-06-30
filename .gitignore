@@ -1,8 +1,13 @@
 # Virtual environments
-my_env/
 .venv/
 venv/
 env/
+my_env/Include/
+my_env/Lib/
+my_env/Scripts/
+my_env/share/
+my_env/pyvenv.cfg
+my_env/.gradio/
 
 # Python cache
 __pycache__/
